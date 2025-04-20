@@ -8,7 +8,7 @@ Combine AAC-encoded M4A audio files into a single M4B audiobook.
 
 1. Create a new directory and title it the name of the audiobook.  
 2. Place all of the chapter files into the newly created directory from step 1.  
-3. Conform the chapter file names to `<#>_<title>.m4a`, where `<#>` is the sequence order and `<title>` is the chapter title.  
+3. Conform the chapter file names to `<#>_<title>.m4a`, where `<#>` is the sequence order, starting with 0 as the first chapter, and `<title>` is the chapter title.  
 4. OPTIONAL: You may also include an image file named `cover` (i.e. `cover.jpg`, `cover.png`, etc.).  
 5. Drag and drop the directory over the `DD_M4B-Combine.cmd` for the audiobook to be encoded.
 
